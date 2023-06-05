@@ -92,8 +92,8 @@ def linkedin_parsing(link):
     try:
 
         driver = webdriver.Chrome()
-        email = "max.louault@gmail.com"
-        password = "Loghorizon10lk#"
+        email = ""
+        password = ""
 
         actions.login(driver, email, password)
         driver.get(link)
