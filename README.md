@@ -13,6 +13,7 @@ Then wait for the tool to end.
   
 Tool output:
 
+******************************************************************
 Please make sure to switch your LinkedIn Profile to English mode.
 
 Please ensure writing the right name / surname to avoid any errors
@@ -20,3 +21,4 @@ Please enter target name: John
 Enter surname: Doe
 Enter company name if known (refine the search): Microsoft
 Enter the city if known (pages blanches only): Paris
+*****************************************************************
